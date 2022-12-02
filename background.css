@@ -1,0 +1,19 @@
+
+body{
+    background-image: url(./Backk.png);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.btn.btn-danger{
+    color: #$red-700;
+}
+
+.btn-dark{
+    width: 50px;
+
+}
+
+#infoL {
+    background: rgb(12, 12, 12);
+}
